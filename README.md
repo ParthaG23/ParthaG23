@@ -72,8 +72,10 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kittsofar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kittsofar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhammaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhammaity/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100084254133749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100084254133749" height="30" width="40" /></a>
+  
+<a href="[https://linkedin.com/in/subhammaity](https://www.linkedin.com/in/partha-gayen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/subhammaity/](https://www.linkedin.com/in/partha-gayen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="30" width="40" /></a>
+  
+<a href="[https://fb.com/https://www.facebook.com/profile.php?id=100084254133749](https://www.facebook.com/share/1EjVf9kiGi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100084254133749](https://www.facebook.com/share/1EjVf9kiGi/)" height="30" width="40" /></a>
 </p>
 
 --------------------------------------------------------------
