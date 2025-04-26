@@ -59,7 +59,7 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=graphical-analysis&label=Profile%20views&color=0e75b6&style=flat" alt="graphical-analysis" /> </p>
+
 
 - 🌱 I’m currently learning **My Bechelors degree in B.Tech CSE with specialization in Data Science**
 
@@ -84,6 +84,9 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 <a href="https://www.instagram.com/mr.parthag23" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 
+</a>
+<a href="https://www.threads.net/mr.parthag23" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="Threads" height="30" width="40" />
 </a>
 </p>
 
