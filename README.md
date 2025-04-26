@@ -55,9 +55,9 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/7a/61/c87a61d044f12c68d682fc06efd8e175.gif">
+<img align="right" alt="Coding" width="400" src="[https://lottie.host/](https://app.lottiefiles.com/Animation.lottie">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthx-23&label=Profile%20views&color=0e75b6&style=flat" alt="parthx-23" /> </p>
 
 
 
@@ -85,9 +85,7 @@ I'm passionate about using **data, technology, and creativity** to make a positi
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 
 </a>
-<a href="https://www.threads.net/mr.parthag23" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="Threads" height="30" width="40" />
-</a>
+
 </p>
 
 --------------------------------------------------------------
@@ -123,3 +121,5 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthx-23&show_icons=true&locale=en" alt="parthx-23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthx-23&" alt="parthx-23" /></p>
+
+
