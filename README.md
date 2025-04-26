@@ -80,6 +80,11 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 <a href="https://www.facebook.com/profile.php?id=100084254133749" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
+
+<a href="https://www.instagram.com/mr.parthag23" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+
+</a>
 </p>
 
 --------------------------------------------------------------
