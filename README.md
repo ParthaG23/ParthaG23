@@ -92,7 +92,10 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 
 ## Languages and Tools 
 <div>
-<table align="left">
+
+
+
+<table class="tech-table" align="center">
   <tr>
     <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -179,7 +182,6 @@ I'm passionate about using **data, technology, and creativity** to make a positi
     </td>
   </tr>
 </table>
-
 </div>
 
   
