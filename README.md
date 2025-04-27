@@ -166,7 +166,19 @@ I'm passionate about using **data, technology, and creativity** to make a positi
       </a>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank"_
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br/>Git
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/><br/>Figma
+      </a>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
 
 </div>
 
