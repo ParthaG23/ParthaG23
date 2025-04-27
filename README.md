@@ -116,10 +116,9 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 
 
   ----------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthx-23&show_icons=true&locale=en&layout=compact" alt="parthx-23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthx-23&show_icons=true&locale=en" alt="parthx-23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthx-23&" alt="parthx-23" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ParthX-23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
