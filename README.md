@@ -55,7 +55,7 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 
 
 
-<img align="right" alt="Coding" width="400" src="[https://lottie.host/](https://app.lottiefiles.com/Animation.lottie">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo1OXJiNTZjNnRyczRhdWtqZHBpbDF3NjZxbGtmNGpuamQ0YTZ5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthx-23&label=Profile%20views&color=0e75b6&style=flat" alt="parthx-23" /> </p>
 
