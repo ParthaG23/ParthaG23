@@ -185,12 +185,28 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 </div>
 
   
-
-### Best frameworks and main libraries for Python3:
-
-| Numpy | Pandas | Sklearn | Matplotlib | Seaborn |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="mpl" alt="mpl" width="70" height="70"/>|
+### 🚀 Best frameworks and main libraries for Python3:
+<div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/><br/>Numpy
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/><br/>Pandas
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/><br/>Scikit-Learn
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/><br/>Matplotlib
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="55" height="55"/><br/>Seaborn
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
