@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthx-23&label=Profile%20views&color=0e75b6&style=flat" alt="parthx-23" /> </p>
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthagayen&theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthX-23&theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 
