@@ -233,7 +233,7 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
   </tr>
 </table>
 </div>
-  ----------------------------
+
 
   
 ## GitHub Stats:
