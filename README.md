@@ -185,7 +185,7 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 </div>
 
   
-### 🚀 Best frameworks and main libraries for Python3:
+###Best frameworks and main libraries for Python3:
 <div>
 <table align="center">
   <tr>
@@ -209,14 +209,22 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 </div>
 
 
-
 ### My tools for Data Manipulation:
-
-| Conda | Jupyter | MySQL |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
-
-
+<div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/><br/>Conda
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/><br/>Jupyter
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/><br/>Power BI
+    </td>
+  </tr>
+</table>
+</div>
   ----------------------------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
