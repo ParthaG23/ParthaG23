@@ -47,19 +47,22 @@ I also use **Power BI** to create meaningful visual reports — turning raw data
 When I'm not analyzing data or coding, you’ll find me outdoors, playing **football** and **volleyball**. Sports help me stay energized, refreshed, and ready to tackle new challenges with a clear mind!
 
 ---
+<div height="500" width=100%">
 
-## My Goal  
-I'm passionate about using **data, technology, and creativity** to make a positive impact.  
+  ## My Goal  
+  I'm passionate about using **data, technology, and creativity** to make a positive impact.  
 **Let's connect, collaborate, and create amazing things together! 🚀**
 
 
 
-
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo1OXJiNTZjNnRyczRhdWtqZHBpbDF3NjZxbGtmNGpuamQ0YTZ5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthx-23&label=Profile%20views&color=0e75b6&style=flat" alt="parthx-23" /> </p>
+<div align="right">
+<img align="right" alt="Coding" width="400" height="300" style="border: none; border-radius: 15px;" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1751500800&v=beta&t=ul7__mVe2pqHd0OPX1k5Uj9KKtzxj5RavZJQs55oY6k">
 
 
+
+
+
+<div align="left">
 
 - 🌱 I’m currently learning **My Bechelors degree in B.Tech CSE with specialization in Data Science**
 
@@ -68,6 +71,9 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 - 📫 How to reach me **work.parthag23@gmail.com**
 
 - ⚡ Fun fact **Over Thinking😅, Self Motivated 👾**
+  
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -87,6 +93,8 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 </a>
 
 </p>
+</div>
+
 
 --------------------------------------------------------------
 
@@ -185,7 +193,7 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 </div>
 
   
-###Best frameworks and main libraries for Python3:
+### Best frameworks and main libraries for Python3:
 <div>
 <table align="center">
   <tr>
@@ -226,10 +234,14 @@ I'm passionate about using **data, technology, and creativity** to make a positi
 </table>
 </div>
   ----------------------------
-# 📊 GitHub Stats:
+
+  
+## GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ParthX-23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ### 🔝 Top Contributed Repo
