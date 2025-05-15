@@ -1,8 +1,7 @@
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Partha+Gayen&repeat=false" alt="Typing Animation for Name">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=00CFFF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Partha+Gayen&repeat=false" alt="Typing Animation for Name">
 </h1>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Web+Developer;Data+Analytics" alt="Typing Animation for Role">
