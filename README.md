@@ -7,10 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Web+Developer;Data+Analytics" alt="Typing Animation for Role">
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthx-23&label=Profile%20views&color=0e75b6&style=flat" alt="parthx-23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthaG23&label=Profile%20views&color=0e75b6&style=flat" alt="parthx-23" /> </p>
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthX-23&theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthaG23&theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 
@@ -237,14 +237,14 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
   
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ParthX-23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthX-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ParthaG23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ParthaG23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaG23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ParthX-23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ParthaG23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ParthX-23&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ParthaG23&icon=0&color=0)](https://visitcount.itsvg.in)
