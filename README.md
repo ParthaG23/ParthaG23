@@ -91,7 +91,7 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
 
 </a>
 <a href="https://parthag23.github.io/ParthaG/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/000000/internet.png" alt="Website" />
+  <img src="https://img.icons8.com/fluency/30/internet.png" alt="Website" />
 </a>
 </p>
 </div>
