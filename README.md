@@ -90,7 +90,9 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 
 </a>
-[![Website](https://img.shields.io/badge/My%20Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parthag23.github.io/ParthaG/)
+<a href="https://parthag23.github.io/ParthaG/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/000000/internet.png" alt="Website" />
+</a>
 </p>
 </div>
 
