@@ -50,7 +50,7 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
 
   ## My Goal  
   I'm passionate about using **data, technology, and creativity** to make a positive impact.  
-**Let's connect, collaborate, and create amazing things together! 🚀**
+**Let's connect, collaborate, and create amazing things together! **
 
 
 
@@ -63,13 +63,13 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
 
 <div align="left">
 
-- 🌱 I’m currently learning **My Bechelors degree in B.Tech CSE with specialization in Data Science**
+-  I’m currently learning **My Bechelors degree in B.Tech CSE with specialization in Data Science**
 
-- 💬 Ask me about **Data Analysis, Business Decision, Data Visualization**
+-  Ask me about **Data Analysis, Business Decision, Data Visualization**
 
-- 📫 How to reach me **work.parthag23@gmail.com**
+-  How to reach me **work.parthag23@gmail.com**
 
-- ⚡ Fun fact **Over Thinking😅, Self Motivated 👾**
+-  Fun fact **Over Thinking😅, Self Motivated 👾**
   
 </div>
 
