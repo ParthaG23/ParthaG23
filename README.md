@@ -54,10 +54,10 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
 Here is my internship completion certificate, showcasing my experience and learning during my internship program.
 
 ### 🔗 View Certificate  
-👉 [**Click here to view my Internship Certificate**]([ParthaG23/intern2.jpg](https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg))
+👉 [**Click here to view my Internship Certificate**](https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg)
 
 ### Certificate Preview  
-<img src="[ParthaG23/intern2.jpg](https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg)" alt="Internship Certificate" width="500" style="border-radius: 10px; border: 1px solid #444;" />
+<img src="https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg" alt="Internship Certificate" width="500" style="border-radius: 10px; border: 1px solid #444;" />
 
 ---
 
