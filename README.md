@@ -9,9 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthaG23&label=Profile%20views&color=0e75b6&style=flat" alt="parthaG23" /> </p>
 <!-- GitHub Trophy -->
+<br>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthaG23&theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ParthaG23&theme=dark_dimmed&no-frame=true&margin-w=15" 
+    alt="GitHub Trophy"
+  />
 </p>
+
+<br>
 
 
 
@@ -51,7 +58,7 @@ When I'm not analyzing data or coding, you’ll find me outdoors, playing **foot
 
 Here is my internship completion certificate, showcasing my experience and learning during my internship program.
 
-### 🔗 View Certificate  
+### View Certificate  
 👉 [**Click here to view my Internship Certificate**](https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg)
 
 
