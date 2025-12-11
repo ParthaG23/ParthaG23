@@ -79,6 +79,7 @@ Here is my internship completion certificate, showcasing my experience and learn
   <source src="https://github.com/ParthaG23/ParthaG23/raw/main/0_Student_Study_3840x2160.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</div>
 
 
 
