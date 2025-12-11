@@ -75,7 +75,7 @@ Here is my internship completion certificate, showcasing my experience and learn
 
 
 <div align="right">
-<img align="right" alt="Coding" width="400" height="300" style="border: none; border-radius: 15px;" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1751500800&v=beta&t=ul7__mVe2pqHd0OPX1k5Uj9KKtzxj5RavZJQs55oY6k">
+<img align="right" alt="Coding" width="400" height="300" style="border: none; border-radius: 15px;" src="https://github.com/ParthaG23/ParthaG23/blob/main/0_Student_Study_3840x2160.mp4">
 
 
 
