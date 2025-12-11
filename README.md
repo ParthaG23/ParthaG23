@@ -12,11 +12,9 @@
 <br>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ParthaG23&theme=dark_dimmed&no-frame=true&margin-w=15" 
-    alt="GitHub Trophy"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthaG23&theme=dracula&no-frame=true&margin-w=15" />
 </p>
+
 
 <br>
 
