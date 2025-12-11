@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthaG23&label=Profile%20views&color=0e75b6&style=flat" alt="parthaG23" /> </p>
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthaG23&theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthaG23 &theme=dark_dimmed&no-frame=true&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 
@@ -46,6 +46,21 @@ I also use **Power BI** to create meaningful visual reports — turning raw data
 When I'm not analyzing data or coding, you’ll find me outdoors, playing **football** and **volleyball**. Sports help me stay energized, refreshed, and ready to tackle new challenges with a clear mind!
 
 ---
+
+---
+
+## Internship Certificate
+
+Here is my internship completion certificate, showcasing my experience and learning during my internship program.
+
+### 🔗 View Certificate  
+👉 [**Click here to view my Internship Certificate**](ParthaG23\intern2.jpg)
+
+### 🖼️ Certificate Preview  
+<img src="ParthaG23\intern2.jpg" alt="Internship Certificate" width="500" style="border-radius: 10px; border: 1px solid #444;" />
+
+---
+
 <div height="500" width=100%">
 
   ## My Goal  
