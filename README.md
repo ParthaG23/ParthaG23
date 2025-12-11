@@ -75,9 +75,11 @@ Here is my internship completion certificate, showcasing my experience and learn
 
 
 <div align="right">
-<img align="right" alt="Coding" width="400" height="300" style="border: none; border-radius: 15px;" src="https://github.com/ParthaG23/ParthaG23/blob/main/0_Student_Study_3840x2160.mp4">
+<video align="right" width="400" height="300" style="border-radius: 15px;" controls>
+  <source src="https://github.com/ParthaG23/ParthaG23/raw/main/0_Student_Study_3840x2160.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-</div>
 
 
 
