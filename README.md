@@ -54,11 +54,11 @@ Here is my internship completion certificate, showcasing my experience and learn
 ### 🔗 View Certificate  
 👉 [**Click here to view my Internship Certificate**](https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg)
 
-<div  align="center">
-### Certificate Preview  
+### Certificate Preview
+<div  align="center">  
 <img src="https://github.com/ParthaG23/ParthaG23/blob/main/intern2.jpg"  align="center" width="500" style="border-radius: 10px; border: 1px solid #444; " />
 </div>
----
+
 
 <div height="500" width=100%">
 
